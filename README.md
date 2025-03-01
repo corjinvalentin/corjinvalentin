@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Valentin Corjin</h1>
 <h3 align="center">A passionate computer science student from Romania</h3>
 
-- 🌱 I’m currently learning: **Swift, Spring, NodeJS and React**
+- 🌱 I’m currently learning: **Swift, SwiftUI**
 
-- 👯 I’m looking to collaborate on **anything related to Mobile Applications and Web Development**
+- 👯 I’m looking to collaborate on **anything related to iOS Mobile Applications**
 
 - 👀 I’m interested in: **Software Development**
 
